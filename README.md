@@ -5,9 +5,9 @@ site de cliente  feito com next.js, react.js e node.js
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-## Autores
+## Autor
 
-<img src="https://avatars.githubusercontent.com/u/85395784?v=4" width=115><br><sub>Bruno Ragner</sub>](https://github.com/BrunoRagner) 
+|<img src="https://avatars.githubusercontent.com/u/85395784?v=4" width=115><br><sub>Bruno Ragner</sub>](https://github.com/BrunoRagner) |
 | :---: | :---: | :---: |
 
 

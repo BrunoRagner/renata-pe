@@ -4,6 +4,15 @@ site de cliente  feito com next.js, react.js e node.js
 :construction: Projeto em construção :construction:
 
 
+
+
+Funcionalidade 1: descrição da funcionalidade 1
+Funcionalidade 2: descrição da funcionalidade 2
+Funcionalidade 2a: descrição da funcionalidade 2a relacionada à funcionalidade 2
+Funcionalidade 3: descrição da funcionalidade 3
+
+
+
 ## The node.js example app
 
 [![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.nodejs.svg)](https://circleci.com/gh/contentful/the-example-app.nodejs)
